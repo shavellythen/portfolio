@@ -14,4 +14,4 @@ When I'm not pushing pixels, I'm somewhere between a Korean drama, a tomato plan
 </p>
 
 # Contact 
-Interested in working together? Reach out via [Email](mailto:shavellythen@gmail.com). 
+Interested in working together? Reach out via <a href="mailto:shavellythen@gmail.com">Email</a>. 
